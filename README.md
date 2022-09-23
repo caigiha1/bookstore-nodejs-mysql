@@ -1,1 +1,2 @@
 # bookstore-nodejs-mysql
+Hi!
